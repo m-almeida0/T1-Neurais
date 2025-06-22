@@ -194,7 +194,7 @@ cython_debug/
 .cursorindexingignore
 
 #rough draft we keep around for reference
-./Projeto_Redes_Neurais.ipynb
+./Projetos_Redes_Neurais.ipynb
 
 #raw data
 data/raw/*
